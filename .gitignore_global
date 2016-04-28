@@ -1,0 +1,21 @@
+# Vim
+**.swp
+
+# OS X
+.DS_Store
+.Trashes
+Icon
+._*
+
+# Haskell
+*.hi
+*.o
+.cabal-sandbox/
+*.hp
+
+# Ruby
+/.bundle
+/doc
+/rdoc
+/vendor/bundle
+.rvmrc
