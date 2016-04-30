@@ -8,3 +8,7 @@ eval "$(stack --bash-completion-script stack)"
 # Add jEnv to path and initialize it
 export PATH="$HOME/.jenv/bin:$PATH"
 eval "$(jenv init -)"
+
+# Rbenv config
+export PATH="$HOME/.rbenv/bin:$PATH"
+eval "$(rbenv init -)"
