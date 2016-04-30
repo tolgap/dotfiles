@@ -3,6 +3,7 @@
 
 .MacOSX
 .Trash
+.homebrew_analytics_user_uuid
 
 /.zcompdump*
 /.zsh-update
@@ -11,7 +12,7 @@
 /.rvm
 
 /.*history
-
+/.bash_sessions
 /.bower
 /.cache
 /.cargo
@@ -31,12 +32,14 @@
 /.netrc
 /.npm
 /.oh-my-zsh
+/.subversion
 /.pip
 /.ssh
 /.vim*
 
 .IdeaIC*/
 .NERDTreeBookmarks
+.zshrc.pre-oh-my-zsh
 .atom/
 !.atom/keymap.cson
 .aws/
@@ -54,6 +57,8 @@
 .v8flags.*.json
 wget-hsts
 .wp-cli/
+.CFUserTextEncoding
+.DS_Store
 
 Work
 
